@@ -1,5 +1,5 @@
 # Python Tetris Game 
-Here's a `README.md` for your Python Tetris game project, with plenty of emojis:
+Here's a `README.md` for your Python Tetris game project :
 
 ```markdown
 # 🧩 Python Tetris Game 🎮
