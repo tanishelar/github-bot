@@ -60,6 +60,8 @@ This game was built using the following technologies:
 - **pygame** 🎮
 
 ## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/5fe5da02-e11e-48d3-94b7-3e1f20a387f5)
+
 
 
 ## 🤝 Contributing
